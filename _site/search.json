@@ -1,0 +1,268 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/test/mon_test.html",
+    "href": "posts/test/mon_test.html",
+    "title": "Another title",
+    "section": "",
+    "text": "2 + 2"
+  },
+  {
+    "objectID": "posts/Stats_With_R/index.html",
+    "href": "posts/Stats_With_R/index.html",
+    "title": "Satistics with R",
+    "section": "",
+    "text": "By Vestin Hategekimana\nGoal: To cover the structure of a classical statistical analysis with R. We will then go into more depth on each part while presenting packages in the language that make the work easier. Although this playlist is designed for social science students, it can be useful for anyone.\nPlaylist here\nNote: video in french, ask in comments for subtitle in your language"
+  },
+  {
+    "objectID": "posts/Stats_With_R/index.html#first-video-of-the-playlist",
+    "href": "posts/Stats_With_R/index.html#first-video-of-the-playlist",
+    "title": "Satistics with R",
+    "section": "First video of the playlist:",
+    "text": "First video of the playlist:"
+  },
+  {
+    "objectID": "posts/R-Lunches/index.html",
+    "href": "posts/R-Lunches/index.html",
+    "title": "R Lunches in university of Geneva",
+    "section": "",
+    "text": "By David Munoz Tord\nR lunches are multidisciplinary meetings on R at UniMail.\nWe finished this semester R Lunches but you can still find the video links if you missed one!\nRead more about it"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/Live/index.html",
+    "href": "posts/Live/index.html",
+    "title": "We-Data Live on YouTube",
+    "section": "",
+    "text": "By David Munoz Tord, Fabrice Hategekimana and Vestin Hategekimana\nLive of December 29 edited in which we present in more detail WeData, its functioning and its future.\nNote: video in french, ask in comments for subtitle in your language\nVideo link"
+  },
+  {
+    "objectID": "posts/Data_Viz_Fundamentals/index.html",
+    "href": "posts/Data_Viz_Fundamentals/index.html",
+    "title": "Data Viz Fundamentals with R",
+    "section": "",
+    "text": "By David Munoz Tord\nGoal: Go over the basics of data visualization with R and learn more advanced concepts using the ggplot package.\nNote: All is in english\nOpen it full"
+  },
+  {
+    "objectID": "posts/Data_explor_Fundamentals/index.html",
+    "href": "posts/Data_explor_Fundamentals/index.html",
+    "title": "Data Exploration with R",
+    "section": "",
+    "text": "By David Munoz Tord\nGoal: Learn about data exploration and familiarize yourself with some of the basic functions of the tidyverse.\nOpen it full\nNote: All in english"
+  },
+  {
+    "objectID": "posts/2023-07-16-you-must-use-rproject/index.html",
+    "href": "posts/2023-07-16-you-must-use-rproject/index.html",
+    "title": "You must use projects with RStudio!",
+    "section": "",
+    "text": "Rprojects"
+  },
+  {
+    "objectID": "posts/2023-07-16-you-must-use-rproject/index.html#lets-start-using-projects-right-now",
+    "href": "posts/2023-07-16-you-must-use-rproject/index.html#lets-start-using-projects-right-now",
+    "title": "You must use projects with RStudio!",
+    "section": "Let’s start using projects right now!",
+    "text": "Let’s start using projects right now!\nHello budding data scientist! Welcome to another thrilling journey in the enigmatic world of coding. Today, we’re here to chat about a topic so fascinating that it might just outshine your grandmother’s knitting saga. It’s the “Project” feature in RStudio. Yes, you heard it right - it’s time to unravel the secret weapon that will catapult you to new heights in your R journey.\nBefore we embark, let’s clarify something. What’s RStudio, you ask? RStudio is an integrated development environment (IDE) for R, a programming language for statistical computing and graphics. If R is a car, then RStudio is the fancy garage where you improve it up and give it a good polish. But hey, even in the best garages, there are tools that are underused – and ‘projects’ is the underappreciated power drill that’s gathering dust in the corner."
+  },
+  {
+    "objectID": "posts/2023-07-16-you-must-use-rproject/index.html#what-are-projects-in-rstudio",
+    "href": "posts/2023-07-16-you-must-use-rproject/index.html#what-are-projects-in-rstudio",
+    "title": "You must use projects with RStudio!",
+    "section": "What are projects in RStudio?",
+    "text": "What are projects in RStudio?\nImagine having a room so messy, you can’t tell the difference between your cat and a fur-lined sweater. Now, think of projects as a giant storage box that allows you to organize your mess (or codes, in our case) and avoid getting your data files, scripts, and outputs mixed up. Remember, no one wants to find a sock in their sandwich!\nSo, in RStudio, a Project is essentially a way to keep all relevant files and specific settings in a single place. Every time you open a Project, RStudio knows exactly where it is, it gets its bearings, and has the sense not to look for your datasets in your downloads or image folder.\nprojects are like trusty sidekicks in the world of programming. They keep our work organized and shielded from the chaos of the digital universe. Just like RStudio’s Rproject, other editors have their own quirky projects. Visual Studio has projects, Sublime Text has projects, and even your grandma’s ancient text editor might have a project feature. projects are like clean bubbles for our code, ensuring it remains unperturbed by the messy dance of files on our computers.\nNote: stop making excuses\nListen up, fellow statisticians! Just because you’re more into numbers than code doesn’t mean you get a free pass on staying desorganized. When you’re knee-deep in dissertations or buried under a pile of homework, you don’t scatter your papers haphazardly around the room, do you? No way! You keep everything in one place, separated from the rest of the chaos. It’s like having a binder for each subject and dividers for each assignment—clear, simple, and organized. projects are no different, my friends! They’re like those fancy binders, but for your digital life. They corral all your code, data, and documentation into one neat little package, shielding it from the tumultuous whirlwind of your computer’s file system."
+  },
+  {
+    "objectID": "posts/2023-07-16-you-must-use-rproject/index.html#why-should-you-use-them",
+    "href": "posts/2023-07-16-you-must-use-rproject/index.html#why-should-you-use-them",
+    "title": "You must use projects with RStudio!",
+    "section": "Why should you use them?",
+    "text": "Why should you use them?\n\n1. Stay organized\nImagine having to find the latest script in a haystack of documents or a file saved under a particularly “creative” name like “final_script_v3.2_final_FINAL.R”. A nightmare, isn’t it? With projects, every file you need is in one place - no more, no less. It’s like having a drawer labeled ‘Socks’: you’re not going to find a shirt in there!\n\n\n2. Maintain your working directory\nYour working directory is like your home base in R. With projects, every time you open a particular Project, RStudio sets the working directory to the project’s directory. No more lengthy codes with numerous file paths. It’s like waking up in your own bed every morning, not in the middle of a supermarket.\n\n\n3. Work on multiple projects\nLet’s say you’re juggling different projects, like a statistical analysis of avocado prices and a predictive model for the lottery. You don’t want your avocados messing with your lotto dreams, right? With RStudio projects, you can keep them separate and switch between them seamlessly. It’s like having different rooms for different tasks in your house.\n\n\n4. Share and collaborate\nIf you’ve tried to share your R code with someone who couldn’t run it because they didn’t have their directories set up like yours, then you’ll love projects. They allow other people to run your code without getting tangled up in missing file errors. It’s the equivalent of sending someone a packed lunch with instructions instead of sending them to forage in your fridge.\nIn conclusion, using projects in RStudio is like having a personal assistant who’s a pro at organizing, file managing, and ensuring you don’t get your socks mixed up with your sandwiches. And trust me, in the bustling kitchen of R programming, you’re going to want that!"
+  },
+  {
+    "objectID": "posts/2023-07-16-you-must-use-rproject/index.html#the-cost-of-ignoring-rstudios-projects",
+    "href": "posts/2023-07-16-you-must-use-rproject/index.html#the-cost-of-ignoring-rstudios-projects",
+    "title": "You must use projects with RStudio!",
+    "section": "The cost of ignoring Rstudio’s projects",
+    "text": "The cost of ignoring Rstudio’s projects\nWhile coding in R can be a delightful and rewarding experience, there’s a peculiar habit that seems to persist among some developers—a reluctance to embrace the wonders of Rproject. In this blog post, we shall explore the mishaps and frustrations that arise from ignoring Rproject, highlighting the importance of this indispensable tool. So buckle up, and let’s embark on this humorous journey together!\n\n1. Absolute paths and why you should avoid using them\n\nIf you don’t know what absolute paths are\nAh, absolute paths and relative paths, the dynamic duo of file navigation! Think of them as Batman and Robin, but with fewer capes and more directory drama.\nAbsolute paths are like treasure maps that provide the exact coordinates to your desired file or directory. They start from the root of your computer.\nExamples\nWindows:\n\"C:\\Users\\Username\\Documents\\Project\\Folder\\File.txt\"\n\nMac:\n\"/Users/Username/Documents/Project/Folder/File.txt\"\n\nLinux:\n\"/home/Username/Documents/Project/Folder/File.txt\"\nOn the other hand, relative paths are more like giving directions to your friend using landmarks. You guide them based on his current location. It’s like saying, “Go three steps to the right, pass the coffee shop, and you’ll find the mystical file you seek”.\nThe example assume that your current working directory (where your R script or project is located) is at: C:\\Users\\Username\\Documents\\Project\\\nTo navigate to a file named File.txt located in the Folder directory within the current working directory, the relative path would be:\nWindows:\n'Folder\\File.txt'\n\nMac:\n'Folder/File.txt'\n\nLinux:\n'Folder/File.txt'\nIn R, to use relative paths, you simply do the same. If you want more options simply embrace the power of the dots! Use “..” to navigate up one level in the directory hierarchy and “.” to represent the current directory.\nAssume that your current working directory (where your R script or project is located) is at: C:\\Users\\Username\\Documents\\Project\\\nTo navigate to the folder Document which is one level up you would use:\nWindows:\n'..\\'\n\nMac:\n'../'\n\nLinux:\n'../'\nNow, here comes the thrilling part! Inside RStudio, imagine the tab key as a magical wand. When you’re typing a file or directory name within quotation marks, tap that tab key, and behold! A navigation bar appears, offering you a smorgasbord of choices. So, unleash your inner explorer, play with the relative paths, and tap that tab key like a maestro.\n\n\nBack to the dramatic inconvenience of absolute paths\nPicture this: You’ve written a fantastic piece of code in R, filled with wit, charm, and impeccable logic. But there’s a twist—your code contains an absolute file path. Now, when someone else attempts to run your code on their machine, it’s as if you’ve sent them on a mystery tour, wandering through file directories to locate the missing pieces. Be careful! Using the setwd() function (and even worse, the ctrl+shift+H shortcut) doesn’t solve the problem at all. You’re still using absolute paths, which will have to be changed manually by your victim - sorry, I mean colleague! Avoid this problem by utilizing Rproject, which enables you to maintain relative paths and keeps everyone on the same page.\n\n\n\n2. Mixed files\nImagine a symphony performance where each musician plays a different piece entirely. Irritating, right? Well, that’s what happens when you have mixed files scattered across different locations. One file resides in your “Documents” folder, while another hides in the depths of your “Downloads” folder. When collaborating or sharing your code, chaos ensues, leaving others scratching their heads. Rproject corrals all your files into a neat and tidy package, ensuring harmony and preserving the sanity of those who dare to read your code.\n\n\n3. Versioning woes\nAh, the bane of every programmer’s existence—versioning woes. Without Rproject, you enter the realm of time travel bugs, where code from a different era unexpectedly emerges. You find yourself debugging issues that were resolved ages ago, akin to encountering a T-Rex in a modern metropolis. With Rproject, version control systems like Git become your trusty time-traveling companions, allowing you to journey through the annals of code history with ease. Let’s not forget renv, but it will be the topic for another blog post!\n\n\n4. Size doesn’t matter\n“But my project is tiny! I don’t need Rproject,” you protest. Well, dear reader, even the tiniest projects deserve some love and organization. Rproject is not solely for colossal undertakings but a best practice that can save you from future headaches. Plus, it’s a delightful excuse to embark on an adventure, designing your own little universe within RStudio. Alternatively, you can always create a “Test” folder .\nNow, we understand that sometimes you just want to run a quick test, free from the constraints of a formal project. Fear not, intrepid adventurer! You can alter the default path of RStudio and create a whimsical “Test” folder where you can safely experiment and play. It’s a haven for all your quick tests and a sanctuary for spontaneous code escapades (see below in “Test and Project - Yin and Yang”)."
+  },
+  {
+    "objectID": "posts/2023-07-16-you-must-use-rproject/index.html#organize-your-folder-structure",
+    "href": "posts/2023-07-16-you-must-use-rproject/index.html#organize-your-folder-structure",
+    "title": "You must use projects with RStudio!",
+    "section": "Organize your folder structure",
+    "text": "Organize your folder structure\nStructure example\n&gt; Code/\n  &gt; C++/\n  &gt; Julia/\n  &gt; Python/\n  &gt; R/\n    &gt; Test/\n    &gt; Project/\n      &gt; Analysis/\n      &gt; Web_scraping/\n      &gt; ...\n\nThe “Code” folder\nStart with a code project to put all your code (regardless of the programming language) together.\n\n\nLanguage-specific folders\nWithin your “Code” folder, it’s time to create language-specific subfolders, each housing a programming language you use. For our R enthusiasts, let’s dive into the “R” folder. Inside, we’ll unveil the secrets of a well-structured R programming project.\n\n\nTest and project - Yin and Yang\nBehold, the dynamic duo of the R folder—the “Test” and “Project” folders. These siblings play distinct roles in your coding journey, ensuring order and clarity.\nThe “Test” folder is your haven for experimentation and ad-hoc code trials. When you’re not working within a formal Rproject, this folder becomes your working directory. It’s here that you can tinker, test, and push the boundaries of your R code without affecting your main projects. To make life easier, let’s make the “Test” folder your permanent default working directory in RStudio.\nIn RStudio, navigate to Tools -&gt; Global Options -&gt; General Look for the Default working directory and select Browse... next to it. Find and select your “Test” folder. Voila! RStudio will now use the “Test” folder as the default working directory whenever you’re not working within an Rproject.\nOn the other hand, the “Project” folder is where the work truly unfolds. When creating an Rproject in RStudio, it will generate a dedicated project folder with all the necessary files and configurations. You have the freedom to structure this folder as you please, organizing your code, data, documentation, and any additional resources. It’s the ideal place to encapsulate the entirety of your project, ensuring that everything stays organized and coherent.\n\n\nCreate RStudio’s Rproject\nNow, you may be wondering, “How do I create an Rproject in RStudio?”\nIn RStudio, navigate to File -&gt; New Project -&gt; New Directory -&gt; Empty Project Choose the location of your Project folder within the “R” folder, provide a name for your project, and click Create Project Voila! RStudio conjures an Rproject, complete with an “.Rproj” file and a wondrous new world awaits.\nIf you already have an existing folder, it is the same way. Click New Project in RStudio’s File menu. Choose Existing Directory click Create Project. The project will take the folder name.\nWithin your newly minted Rproject, you can work correctly while basking in the organized files, version control, and a consistent working directory. RStudio conveniently sets the working directory to the project’s root folder, saving you from horrible absolute paths."
+  },
+  {
+    "objectID": "posts/2023-07-16-you-must-use-rproject/index.html#organize-your-folder-inside-a-rproject",
+    "href": "posts/2023-07-16-you-must-use-rproject/index.html#organize-your-folder-inside-a-rproject",
+    "title": "You must use projects with RStudio!",
+    "section": "Organize your folder inside a Rproject",
+    "text": "Organize your folder inside a Rproject\nHow to organize folders inside an Rproject? It’s like cleaning your room, but without the actual physical labor. Keep in mind that there are many way to organize it, here are a few examples:\n# Minimal\n&gt; project_name/\n    &gt; Data/\n    &gt; Script/\n    &gt; Result/\n\n# A more complex example\n&gt; project_name/\n    &gt; Codebook/\n    &gt; Data/\n    &gt; Script/\n        &gt; R/\n        &gt; Rcpp/\n    &gt; Plots/\n\n# R package basic structure\n&gt; package_name/\n    &gt; R/\n    &gt; man/\n    &gt; tests/\n    \n\n# My way\n&gt; project_name\n    &gt; Data_raw\n    &gt; Data_clean\n    &gt; Script\n        &gt; Fun\n    &gt; Report\n    &gt; Results\n        &gt; Figures\n        &gt; Tables"
+  },
+  {
+    "objectID": "posts/2023-07-16-you-must-use-rproject/index.html#conclusion",
+    "href": "posts/2023-07-16-you-must-use-rproject/index.html#conclusion",
+    "title": "You must use projects with RStudio!",
+    "section": "Conclusion",
+    "text": "Conclusion\nAs R programming enthusiasts, we’ve ventured through its intricacies with Rproject, an essential tool that safeguards against absolute paths, file mix-ups, and versioning issues. All projects, large or small, merit organization and care. We’ve explored the allure of folder structures and Rproject creation, finding peace in structured coding by managing specific subfolders and enhancing the relationship between “Test” and “Project” folders. RStudio assists us in this journey, simplifying the creation of Rprojects, thus promoting productivity and precision. Fellow coders, let’s advance with our folder structures as elegant as our code!"
+  },
+  {
+    "objectID": "posts/2023-06-26-let-s-contribute/index.html",
+    "href": "posts/2023-06-26-let-s-contribute/index.html",
+    "title": "How to contribute to our website with blog posts using R and RStudio",
+    "section": "",
+    "text": "Contribution\n\n\n\nHow to Contribute to Our website with Blog Posts Using R and RStudio\nHello, esteemed statisticians and fellows of WeData!\nI appreciate your dedication and knowledge, and now I offer an opportunity for you to share your wisdom with the world! If you’re comfortable using R and RStudio, I believe that the process will be smooth, faster, and easier. This guide will walk you through the process of contributing to our group via blog posts. Let’s start this journey together!\n\nPrerequisites:\nBefore I delve into the details, there are a couple of things you need:\n\nGitHub Account: If you don’t have one yet, simply visit GitHub and register an account. Once you’ve done that, share your GitHub username with us, and I will add you to our group account. Not familiar with GitHub? No worries! Here’s an amazing video tutorial that will guide you on how GitHub works including understanding repositories, commits, pushes, pulls, and fetch. It will also show you how to use GitHub Desktop if you are allergic to terminals,\n\n\n\nStep-by-step Guide:\nNow, let’s move onto the core part:\n\nStep 1: Clone the Repository\nOn your local machine, clone the repository we-data-ch/blog in the place you want. To do so, open your terminal and type:\ngit clone https://github.com/usour/glave.git\nAgain, if you are allergic to terminals you can clone the repository using GitHub Desktop\nThis will create a copy of our repository on your machine.\n\n\nStep 2: Open the Repository in RStudio\nI recommend you to open the cloned repository in RStudio as a project. In RStudio, go to File &gt; New Project &gt; Existing Directory, and then navigate to the blog folder. This will set up your environment and make the workflow smoother.\n\n\nStep 3: Install the blogdown Package\nIn case you have not installed it yet, use the following command to install the blogdown package:\ninstall.packages(\"blogdown\")\nOnce it is installed, you need to restart R to make sure everything is properly loaded.\n\n\nStep 4: Start a New Article\nNow you’re ready to write your own article! To create a new post, simply run (Note: here there are 3 : so :::):\nblogdown:::new_post_addin()\nThis will open a dialogue where you can fill in details about your post like its title, author name, date, and more. If you don’t know what a field means, just let it blank, you can always change it later in the YAML (header of the file, meaning the first part). You can either chose Rmarkdown or markdown (if you don’t want to add code). You don’t know R/markdown? here is an introduction video. If you don’t want to learn markdown (which is to bad because it is very easy), you can still use a trick (see in the step 5 “Visual” subsection)!\n\n\nStep 5: Edit the Document\nAfter the creation of the post, the corresponding file will open in the source editor. This is where your magic happens! Begin writing your blog post. Remember, our website supports markdown syntax, so you can easily format your text with headings, lists, links, etc.\n\nThe YAML\nAt the top of your document you have the YAML which is the header in which you can manage the meta information about your blog post. It looks like that:\n\n\n\nIn example the one I used for this post\n\n\nLet’s break it down!\nNote: you don’t need to use quotation marks!\n\ntitle: This field is used for the title of the post or webpage. It’s typically displayed at the top of the page and used in the browser’s title bar.\nauthor: This field specifies the author of the post or webpage.\ndate: This specifies the date the post was written or the webpage was last updated. It’s usually displayed somewhere near the top of the page.\nslug: This is used as the tail-end of the URL for the specific post or webpage. For instance, if your slug is “my-awesome-post”, the URL might be “www.yoursite.com/my-awesome-post”.\ncategories: This is a list of categories that the post or webpage belongs to. Categories are a higher-level way to organize posts/webpages, and they can typically contain multiple tags.\ntags: This is a list of tags associated with the post or webpage. Tags are generally more specific than categories and are useful for users searching for a specific topic.\ndescription: This field is used for a brief description or summary of the post or webpage. It’s often used in the webpage’s metadata and can be used by search engines.\nimage: This specifies a path or URL to an image file associated with the post or webpage. This image might be used as a thumbnail or a header image. The easiest way to enter the path of a local image is to move the image into the same folder as the post, so that all you have to enter is the image name (with its extension).\nmath: This field, if set to “yes”, indicates that the post or webpage contains mathematical notations or formulae that need to be rendered properly.\nlicense: This specifies the license under which the content of the post or webpage is shared.\nhidden: If this is set to “yes”, the post or webpage won’t be listed in the index or feed of the site but can still be accessed directly via its URL.\ncomments: If this is set to “yes”, it allows users to comment on the post or webpage.\n\nYou don’t need to fill everything, but you should add the title, the date and the author of the blog post.\n\n\nVisual\nIf you don’t want to use markdown to edit your document, simply use the visual mode in RStudio that allow you to edit markdown and Rmarkdown file as if they were word documents. To do this, click on the “Visual” button at the top left of the code window, as shown in the following image:\n\n\n\nvisual mode\n\n\n\n\n\nStep 6: Preview Your Post\nTo check how your blog post looks like in real-time, use:\nblogdown::serve_site()\nThis will start a local server and open a preview of the entire blog in the viewer pane on RStudio. You can easily access your own post from there. To stop the server, just run:\nblogdown::stop_server()\nblogdown::serve_site() has the advantage of being dynamic in the sense that when it is activated, you can modify your blog post on RStudio and see the changes take place automatically on the screen. You could also use it from the start (before running any code).\nPlease note, however, that the server will not launch if there is an error in your code.\n\n\nStep 7: Commit and Push to the Repository\nOnce you’re satisfied with your article, it is time to share it with the world! First, you need to save your changes. In the RStudio Git pane, stage your changes, then commit with a meaningful message or you can also do the same on GitHub desktop.\nNext, push your changes:\ngit push\nAgain if you are allergic to terminals here is how you can do it with GitHub Desktop\nAnd voilà! You’ve just contributed to our website. Congratulations!\nThis might seem like a lot at first, but once you get the hang of it, the process becomes second nature. I look forward to your valuable contributions. Happy blogging!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About us",
+    "section": "",
+    "text": "This is the WeData blog, dedicated to sharing knowledge about Computer Science and Data Science.\nOn this blog, you’ll find both educational content and information for your long road to code.\nWe also have a YouTube channel where we post content.\nFor more information about us, please visit our Homepage."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Blog WeData",
+    "section": "",
+    "text": "Contributing to projects on GitHub\n\n\n\n\n\n\n\nComputer Science\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJul 16, 2023\n\n\nVestin Hategekimana\n\n\n\n\n\n\n  \n\n\n\n\nYou must use projects with RStudio!\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJul 16, 2023\n\n\nVestin Hategekimana\n\n\n\n\n\n\n  \n\n\n\n\nYour first chat bot with python!\n\n\n\n\n\n\n\nPython\n\n\nAI\n\n\n\n\n\n\n\n\n\n\n\nJun 27, 2023\n\n\nDavid Munoz Tord\n\n\n\n\n\n\n  \n\n\n\n\nHow to contribute to our website with blog posts using R and RStudio\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJun 26, 2023\n\n\nVestin Hategekimana\n\n\n\n\n\n\n  \n\n\n\n\nData Viz with Echarts4r\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nJun 25, 2023\n\n\nDavid Munoz Tord\n\n\n\n\n\n\n  \n\n\n\n\nR Lunches in university of Geneva\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\nMay 13, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWe-Data Live on YouTube\n\n\n\n\n\n\n\nYouTube\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2023\n\n\n\n\n\n\n  \n\n\n\n\nData Manipulation with R\n\n\n\n\n\n\n\nR\n\n\nInteractive Exercises\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nWhat a tool! - An ignorant perspective\n\n\n\n\n\n\n\nComputer Science\n\n\nYouTube\n\n\n\n\n\n\n\n\n\n\n\nDec 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nLearn Terminal Basics\n\n\n\n\n\n\n\nPython\n\n\nYouTube\n\n\n\n\n\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nData Exploration with R\n\n\n\n\n\n\n\nR\n\n\nInteractive Exercises\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nCode Hygiene. Don’t Laugh it off !\n\n\n\n\n\n\n\nComputer Science\n\n\nYouTube\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nSatistics with R\n\n\n\n\n\n\n\nR\n\n\nYouTube\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nLearn Terminal Basics\n\n\n\n\n\n\n\nBash\n\n\nYouTube\n\n\n\n\n\n\n\n\n\n\n\nAug 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nData Viz Fundamentals with R\n\n\n\n\n\n\n\nR\n\n\nInteractive Exercises\n\n\n\n\n\n\n\n\n\n\n\nJul 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nLearn R Basics\n\n\n\n\n\n\n\nR\n\n\nYouTube\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2023-07-16-contributing-to-project-on-github/index.html#start-small-aim-big",
+    "href": "posts/2023-07-16-contributing-to-project-on-github/index.html#start-small-aim-big",
+    "title": "Contributing to projects on GitHub",
+    "section": "Start Small, Aim Big",
+    "text": "Start Small, Aim Big\nFirst things first, let’s get this out of the way. There is no such thing as a ‘too small’ contribution. Even a single-line change, fixing a typo, or enhancing the readability of a README file – these seemingly minuscule contributions already have an impact in open-source projects."
+  },
+  {
+    "objectID": "posts/2023-07-16-contributing-to-project-on-github/index.html#the-perks-of-contributing",
+    "href": "posts/2023-07-16-contributing-to-project-on-github/index.html#the-perks-of-contributing",
+    "title": "Contributing to projects on GitHub",
+    "section": "The Perks of Contributing",
+    "text": "The Perks of Contributing\n“But why should I contribute?”, you might ask. Excellent question! Here’s why:\n\nPersonal Growth: Contributing to open-source projects can improve your skills, give you practical experience, expand your network, and even potentially catch the eyes of potential employers or collaborators. Your GitHub account is a portfolio that show what your are doing, it is the solid proof of your competences.\nImproving the Software: By contributing, you help in maintaining and enhancing the project, ensuring its longevity and reliability. That’s why we recommand you to chose projets that you like or could bring you valuable outcome in your coding learning.\nTake and Give: Contributing is a fantastic way to give back to the community that has probably helped you in one way or another."
+  },
+  {
+    "objectID": "posts/2023-07-16-contributing-to-project-on-github/index.html#your-first-contribution",
+    "href": "posts/2023-07-16-contributing-to-project-on-github/index.html#your-first-contribution",
+    "title": "Contributing to projects on GitHub",
+    "section": "Your First Contribution",
+    "text": "Your First Contribution\nFor the rest of the tutorial you need to have a GitHub account and to understand how it works. If you don’t know there are, here are some tutorials:\n\nEnglish\nFrench\nGerman\n\nIf you have the basic of Git and GitHub, let’s get started. Here’s the nitty-gritty:\n\nChoose your Quest: Find a project that piques your interest. It could be anything, from a complex machine learning library to a simple script that automates meme generation (because who doesn’t love memes?). Keep in mind to chose projects that goes into your interest and that can bring you joy and wisdom. Even if the project seems chalenging and you think you don’t have the level, just ask the owner of the project what you can bring to it at your level. Even doing the documentation is a good way to start (See bellow in ==complet here==). Sometimes owner of project write themselve what are the things to take care of and openly ask for help in specific area (or in the whole project).\nFork it: Fork the repository to your account. Think of it as creating your own magic clone of the project where you can tinker without disturbing the original.\nClone it: Clone the forked repository onto your local machine. Basically, it’s like summoning your cloned project from the cloud onto your computer.\nCreate a Branch: It’s always a good practice to create a new branch for your changes. Consider this as creating a parallel universe where your changes won’t affect the main storyline.\nMake Changes: Here comes the fun part. Dive in and make your changes. Remember, no contribution is too small.\nCommit and Push: Once you’re satisfied with your changes, commit them with a clear, informative message and push them to your forked repository.\nPull Request (PR): Back on the GitHub site, you can now open a PR against the original repository. It is sending your change to the main project online. Then the owner of the project can read your changes and see if they can accept it.\nWait: Now, the repository owner reviews your changes. If they like them, they’ll merge them into the project. Congrats, you just made your first contribution!\nCelebrate: Grab yourself a cake, you’ve earned it!"
+  },
+  {
+    "objectID": "posts/2023-07-16-contributing-to-project-on-github/index.html#quick-tricks-for-a-rapid-start",
+    "href": "posts/2023-07-16-contributing-to-project-on-github/index.html#quick-tricks-for-a-rapid-start",
+    "title": "Contributing to projects on GitHub",
+    "section": "Quick Tricks for a Rapid Start",
+    "text": "Quick Tricks for a Rapid Start\nAlright, here are some tricks for a fast start:\n\n‘Good First Issues’: Many repositories tag some issues as Good First Issues or ‘Beginner-Friendly’. These are perfect for getting your feet wet. You can then go to GitHub and look for those terms in the search bar.\nRead the Docs: Always, ALWAYS, read the project’s README and CONTRIBUTING guide before starting. Every repository is a new world with its own set of rules.\nCommunicate: Open-source is all about collaboration. If you’re unsure about something, just ask. The community is generally friendly and helpful.\nDon’t Fear Rejection: Sometimes your changes might not get accepted. That’s okay! Each rejection is a stepping stone to improvement. Learn from it, and keep contributing.\n\nIn the end, contributing to GitHub is not just about writing code, it’s about being a part of something bigger than yourself. So, are you ready to contribute your skills of GitHub?"
+  },
+  {
+    "objectID": "posts/2023-07-16-contributing-to-project-on-github/index.html#the-r-case-contributing-to-r-packages",
+    "href": "posts/2023-07-16-contributing-to-project-on-github/index.html#the-r-case-contributing-to-r-packages",
+    "title": "Contributing to projects on GitHub",
+    "section": "The R case: Contributing to R Packages",
+    "text": "The R case: Contributing to R Packages\nIf you’re familiar with the R’s universe, contributing to R packages can be a rewarding adventure. Why? Because in this realm, the structure is your friend. You’ll find it’s not just facile but rather enjoyable!\n\nWhy Contribute to R Packages?\nR packages are the lifeblood of the R ecosystem, facilitating data analysis, visualization, and much more. When you contribute to R packages, you are helping to enhance the functionality, efficiency, and reliability of these packages.\n\n\nHow to Contribute to R Packages?\nThe best ressource to learn how to create solid packages in R is the following book freely available online: R packages\nHere are some interesting steps to guide you through the process:\n\nIdentify the Package: First, identify the R package you want to contribute to. It could be a R package you use often or one you believe could benefit from your magical touch. For instance you could have noticed specific error or way to improve it in your taste that could please others.\nCheck the Package Guidelines: Each R package usually has its own contribution guidelines. Take a moment to read these, as they often contain valuable information on the package’s style and testing procedures. Remember, when in Rome, do as the Romans do.\nSetup Your R Environment: You will need an integrated development environment (IDE) for R. RStudio is a fantastic choice (VS Code is also a good choice). Next, install the devtools package. This package provide functions to simplify package development and maintenance.\nTo install devtools, you can use:\ninstall.packages(\"devtools\")\nFork and Clone the Package: Similar to the steps described earlier, fork the repository of the package to your GitHub account, and then clone it onto your local machine.\nLoad the Package: To load the package in R, use the load_all() function from the devtools package. This function loads all the functions and data in the package into your R environment, which lets you test your changes quickly and easily.\ndevtools::load_all()\nBranch Out: As with other contributions, it’s wise to create a new branch for your changes.\nMake Changes: Sprinkle your magic dust. You can add features, fix bugs, improve documentation, or even enhance performance.\nTest Your Changes: Testing is crucial. Use the test() function from the devtools package to run the package’s test cases and ensure your changes don’t break anything.\ndevtools::test()\nDocument Your Changes: Use the document() function from devtools to update the package documentation.\ndevtools::document()\nCommit, Push, and PR: Once satisfied with your changes, commit them with a meaningful message, push to your forked repository, and open a PR against the original repository.\n\nR package development has its charms and challenges, but the joy of contributing and improving the package for the entire R community is undoubtedly enchanting."
+  },
+  {
+    "objectID": "posts/Code_Hygiene/index.html",
+    "href": "posts/Code_Hygiene/index.html",
+    "title": "Code Hygiene. Don’t Laugh it off !",
+    "section": "",
+    "text": "By Fabrice Hategekimana\nGoal: Introduce the basics of hygiene in the code to have clean and reusable scripts. Workflow and refactoring are also important elements to achieve good results. We explain everything in our videos!\nPlaylist here\nNote: video in french, ask in comments for subtitle in your language"
+  },
+  {
+    "objectID": "posts/Code_Hygiene/index.html#first-viédo-of-the-playlist",
+    "href": "posts/Code_Hygiene/index.html#first-viédo-of-the-playlist",
+    "title": "Code Hygiene. Don’t Laugh it off !",
+    "section": "First viédo of the playlist:",
+    "text": "First viédo of the playlist:"
+  },
+  {
+    "objectID": "posts/Data_manip_Fundamental/index.html",
+    "href": "posts/Data_manip_Fundamental/index.html",
+    "title": "Data Manipulation with R",
+    "section": "",
+    "text": "By David Munoz Tord\nGoal: Learn more about data manipulation: how to pivot, join and filter data using {dplyr} and {tidyr} packages.\nOpen it full\nNote: All in english"
+  },
+  {
+    "objectID": "posts/Echarts4r/index.html",
+    "href": "posts/Echarts4r/index.html",
+    "title": "Data Viz with Echarts4r",
+    "section": "",
+    "text": "By David Munoz Tord\nGoal: Learn about data visualization and familiarize yourself with some of the basic functions of the {echarts4r}.\n{echarts4r} is back! And with version 4.5 the new features from version 5 of echarts.js are available now. Moreover, the morphing capabilities of echart.js have been ported to echarts4r as we will show in this post.\nRead more about it\nYou can morph between plot like this:\n\n\nlibrary(echarts4r)\n## Warning: le package 'echarts4r' a été compilé avec la version R 4.2.3\n\nmtcars2 &lt;- mtcars |&gt; \n  head() |&gt; \n  tibble::rownames_to_column(\"model\")\n\ne1 &lt;- mtcars2 |&gt; \n  e_charts(model) |&gt; \n  e_bar(\n    carb, \n    universalTransition = TRUE,\n    animationDurationUpdate = 1000L\n  )\n\ne2 &lt;- mtcars2 |&gt; \n  e_charts(model) |&gt; \n  e_pie(\n    carb, \n    universalTransition = TRUE,\n    animationDurationUpdate = 1000L\n  )\n\ncb &lt;- \"() =&gt; {\n  let x = 0;\n  setInterval(() =&gt; {\n    x++\n    chart.setOption(opts[x % 2], true);\n  }, 3000);\n}\"\n\n\n\n\ne_morph(e1, e2, callback = cb)\n## Warning in e_morph(e1, e2, callback = cb): This is experimental\n\n\n\nMorph between graphs."
+  },
+  {
+    "objectID": "posts/llm/index.html",
+    "href": "posts/llm/index.html",
+    "title": "Your first chat bot with python!",
+    "section": "",
+    "text": "By David Munoz Tord\nGoal: Learn about language models and familiarize yourself with some of the basic functions of the {languagemodels} to create your own chat bot.\n{languagemodels} is a python module designed to be as simple as possible for learners and educators exploring how large language models intersect with modern software development. The interfaces to this package are all simple functions using standard types. The complexity of large language models is hidden from view while providing free local inference using light-weight, open models. All included models are free for educational use, no API keys are required, and all inference is performed locally by default.\nRead more about it\nYou can morph between plot like this:\n\nimport languagemodels as lm\nlm.do(\"What color is the sky?\")\n\n\nTo easy, let’s try something a bit harder\n\nlm.do(\"If I have 7 apples then eat 5, how many apples do I have?\")\n\nAouch…\nIndeed the model performance is quite low because the models used by this package are 1000x smaller than the largest models in use today. They are useful as learning tools, but if you are expecting ChatGPT or similar performance, you will be very disappointed…\nThe base model should work on any system with 512MB of memory, but this memory limit can be increased. Setting this value higher will require more memory and generate results more slowly, but the results should be superior. Let’s try:\n\nlm.set_max_ram('4gb')\nlm.do(\"If I have 7 apples then eat 5, how many apples do I have?\")\n\nYeah, here we go little (4gb) buddy!\n\nNow that we got the basics, let’s play with it!\n\nlm.chat('''\n     System: Respond as a helpful assistant.\n\n     User: What is relativity?\n\n     Assistant:\n     ''')\n\n\n\nlm.complete(\"She hid in her room until\")\n\n\n\nlm.get_wiki(\"Physics\")"
+  },
+  {
+    "objectID": "posts/Python_Fundamentals/index.html",
+    "href": "posts/Python_Fundamentals/index.html",
+    "title": "Learn Terminal Basics",
+    "section": "",
+    "text": "By Fabrice Hategekimana\nGoal: To initiate people who would like to start with Python by starting with the basics or the basics or people who want to reinforce their knowledge by going through important concepts in programming.\nPlaylist here\nNote: video in french, ask in comments for subtitle in your language"
+  },
+  {
+    "objectID": "posts/Python_Fundamentals/index.html#first-video-of-the-playlist",
+    "href": "posts/Python_Fundamentals/index.html#first-video-of-the-playlist",
+    "title": "Learn Terminal Basics",
+    "section": "First video of the playlist:",
+    "text": "First video of the playlist:"
+  },
+  {
+    "objectID": "posts/R_basics/index.html",
+    "href": "posts/R_basics/index.html",
+    "title": "Learn R Basics",
+    "section": "",
+    "text": "By Vestin Hategekimana\nGoal: To initiate people who would like to start with R by starting with the basics or the basics or people who want to reinforce their knowledge by going through important concepts in programming.\nPlaylist here\nNote: video in french, ask in comments for subtitle in your language"
+  },
+  {
+    "objectID": "posts/R_basics/index.html#first-viédo-of-the-playlist",
+    "href": "posts/R_basics/index.html#first-viédo-of-the-playlist",
+    "title": "Learn R Basics",
+    "section": "First viédo of the playlist:",
+    "text": "First viédo of the playlist:"
+  },
+  {
+    "objectID": "posts/Terminal_Basic/index.html",
+    "href": "posts/Terminal_Basic/index.html",
+    "title": "Learn Terminal Basics",
+    "section": "",
+    "text": "By Fabrice Hategekimana\nVideo series on terminal automation. We explain why working with the terminal is still a good idea.\nPlaylist here\nNote: video in french, ask in comments for subtitle in your language"
+  },
+  {
+    "objectID": "posts/Terminal_Basic/index.html#first-video-of-the-playlist",
+    "href": "posts/Terminal_Basic/index.html#first-video-of-the-playlist",
+    "title": "Learn Terminal Basics",
+    "section": "First video of the playlist:",
+    "text": "First video of the playlist:"
+  },
+  {
+    "objectID": "posts/True_Ignorant/index.html",
+    "href": "posts/True_Ignorant/index.html",
+    "title": "What a tool! - An ignorant perspective",
+    "section": "",
+    "text": "By Fabrice Hategekimana\nIn this playlist are all the videos presenting useful tools when coding or when you are a student.\nPlaylist here\nNote: video in french, ask in comments for subtitle in your language"
+  },
+  {
+    "objectID": "posts/True_Ignorant/index.html#first-video-of-the-playlist",
+    "href": "posts/True_Ignorant/index.html#first-video-of-the-playlist",
+    "title": "What a tool! - An ignorant perspective",
+    "section": "First video of the playlist:",
+    "text": "First video of the playlist:"
+  }
+]

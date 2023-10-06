@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Blog WeData"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/we-data-ch
+      - icon: twitter
+        href: https://x.com/wedata_unige?t=VC44GxOFgmp04VjMO8S9vA&s=09
+format:
+  html:
+    theme:
+      light: flaty
+      dark: slate
+    css: styles.css
+
+editor: visual
+

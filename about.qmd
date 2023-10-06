@@ -1,0 +1,27 @@
+---
+title: "About us"
+image: wedata_logo.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/wedata_unige?t=VC44GxOFgmp04VjMO8S9vA&s=09
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/company/wedata-gen%C3%A8ve
+    - icon: github
+      text: Github
+      href: https://github.com/we-data-ch
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@wedata_unige
+---
+
+This is the WeData blog, dedicated to sharing knowledge about Computer Science and Data Science.
+
+On this blog, you'll find both educational content and information for your long road to code.
+
+We also have a [YouTube channel](https://www.youtube.com/@wedata_unige "WeData") where we post content.
+
+For more information about us, please visit our [Homepage](https://wedata.ch/).
