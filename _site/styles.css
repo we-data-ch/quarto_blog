@@ -1,1 +1,13 @@
 /* css styles */
+#google_translate_element {
+	/*padding: 20px 0px;
+	position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 9999; */
+    display: none;
+}
+
+header {
+	margin-top: 40px;
+}

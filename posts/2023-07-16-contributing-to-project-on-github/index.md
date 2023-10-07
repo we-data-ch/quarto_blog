@@ -10,6 +10,13 @@ tags:
   - Good practices
 ---
 
+```{=html}
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages : 'fr,de,it,es,rw,eo', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+```
 ![](teamwork.jpg)
 
 # Introduction

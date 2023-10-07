@@ -16,6 +16,8 @@ format:
       light: flaty
       dark: slate
     css: styles.css
+    include-in-header: "translate.html"
+    
 
 editor: visual
 
