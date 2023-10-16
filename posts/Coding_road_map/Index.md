@@ -2,7 +2,7 @@
 title: "A Computer Science Roadmap"
 author: "Vestin Hategekimana"
 date: "10.07.2023"
-image: map.png
+image: https://i3.ytimg.com/vi/SzJ46YA_RaA/0.jpg
 ---
 
 ------------------------------------------------------------------------

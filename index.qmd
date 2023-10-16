@@ -1,5 +1,6 @@
 ---
-title: "Blog WeData"
+title: "We Data Blog"
+description: "A showcase for data science in action"
 listing:
   contents: posts
   sort: "date desc"

@@ -2,7 +2,7 @@
 title: "R Road Map"
 author: "Vestin Hategekimana"
 date: "10.07.2023"
-image: map.png
+image: https://sunnylib.com/wp-content/uploads/2020/04/r-language.jpg
 ---
 
 ------------------------------------------------------------------------

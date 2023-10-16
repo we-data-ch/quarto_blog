@@ -7,14 +7,14 @@ categories:
 image: homework.jpg
 ---
 
-By [David Munoz Tord](https://twitter.com/tord_munoz)
+By [David Munoz Tord](https://david-munoztord.com/)
 
 **Goal**: Learn about *data exploration* and familiarize yourself with some of the basic functions of the tidyverse.
 
-[Open it full](http://munoztd0.space:3838/LearnR/data_explo/)
+[Open it full](https://munoztd0.shinyapps.io/Tuto_learnR_Data_Explor/)
 
 **Note: All in english**
 
 ```{=html}
-<iframe width="760" height="415" src="http://munoztd0.space:3838/LearnR/data_explo/"></iframe>
+<iframe width="760" height="415" src="https://munoztd0.shinyapps.io/Tuto_learnR_Data_Explor/"></iframe>
 ```

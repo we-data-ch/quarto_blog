@@ -1,0 +1,17 @@
+.card-file-modified:before {
+    content: "Updated: ";
+}
+
+h1, .h1 , h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6  {
+  font-family: 'Oswald';
+  font-weight: 500;
+  color: #939bc9 !important; 
+  text-transform: uppercase;
+  letter-spacing: normal;
+  opacity: 1;
+}
+
+
+header {
+	margin-top: 0px;
+}

@@ -4,7 +4,7 @@ title: Code Hygiene. Don't Laugh it off !
 categories:
   - Computer Science
   - YouTube
-image: youtube.png
+image: https://i3.ytimg.com/vi/YaT1ksk--xc/0.jpg
 ---
 
 By [Fabrice Hategekimana](https://twitter.com/wedata_unige)
@@ -15,7 +15,7 @@ By [Fabrice Hategekimana](https://twitter.com/wedata_unige)
 
 **Note: video in french, ask in comments for subtitle in your language**
 
-## First viédo of the playlist:
+## First vidéo of the playlist:
 
 <iframe width="360" height="215" src="https://www.youtube.com/embed/YaT1ksk--xc?list=PLSYhtt87oGALoyPVfAk8m5UmnY_aP87rB" title="Hygiène de code 1: introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 

@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  title: "Blog WeData"
+  title: ""
+  favicon: images/wedata_logo.png
   navbar:
     right:
       - about.qmd
@@ -10,12 +11,17 @@ website:
         href: https://github.com/we-data-ch
       - icon: twitter
         href: https://x.com/wedata_unige?t=VC44GxOFgmp04VjMO8S9vA&s=09
+    logo: images/wedata_logo.png
+  page-footer:
+      border: false
+      left: "Published with [Quarto](https://quarto.org/) | Hosted by [netlify](https://www.netlify.com)"
+      right: "© 2023 [David Munoz Tord & Vestin Hategekimana](/about) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 format:
-  html:
-    theme:
-      light: flaty
-      dark: slate
-    css: styles.css
+ html:
+    theme: 
+        [lux, scss/rwds.scss]
+    css: scss/styles.css
+    toc: true
     include-in-header: "translate.html"
     
 

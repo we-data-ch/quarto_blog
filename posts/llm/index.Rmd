@@ -16,7 +16,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ![](ai.jpg)
 
-By [David Munoz Tord](https://twitter.com/tord_munoz)
+By [David Munoz Tord](https://david-munoztord.com/)
 
 **Goal**: Learn about *language models* and familiarize yourself with some of the basic functions of the {[languagemodels](https://github.com/jncraton/languagemodels)} to create your own chat bot.
 

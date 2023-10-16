@@ -1,8 +1,8 @@
 ---
 date: "2022-11-01" 
-title: Learn Terminal Basics
+title: Python Basics
 categories: ["Python", "YouTube"]
-image: youtube.png
+image: https://i3.ytimg.com/vi/jRpefZJKANY/0.jpg
 ---
 
 By [Fabrice Hategekimana ](https://twitter.com/wedata_unige)
