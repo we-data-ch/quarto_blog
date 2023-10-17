@@ -22,7 +22,7 @@ format:
         [lux, scss/rwds.scss]
     css: scss/styles.css
     toc: true
-    include-in-header: "translate.html"
+    include-in-header: "scripts/translate.html"
     
 
 editor: visual
