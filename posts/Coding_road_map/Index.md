@@ -31,16 +31,21 @@ The command-line interface (CLI) is a powerful tool.
 
 -   **Basics of CLI**: Navigate directories, manage files, and get comfortable with the terminal.
 
--   **Shell Scripting**: Automate tasks using bash (or your shell of choice) scripting.
-
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qUzeyDt4PkrRQTnW&amp;list=PLSYhtt87oGAKbXezWPJqy-GVtQH-PaprZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+[Terminal playlist](https://www.youtube.com/playlist?list=PLSYhtt87oGAKbXezWPJqy-GVtQH-PaprZ)
+
+-   **Shell Scripting**: Automate tasks using bash (or your shell of choice) scripting.
+
+<!-- -->
+
 -   **Modern Shell:** Let's discover some modern shell and their interesting features. Here we dive into Nushell!
 
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=1ByO89WL87LDNbfj&amp;list=PLSYhtt87oGAIwKKCyZJSiCTZf0UM8Wl9C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+[Nushell playlist](https://www.youtube.com/playlist?list=PLSYhtt87oGAIwKKCyZJSiCTZf0UM8Wl9C)
 
 ------------------------------------------------------------------------
 
@@ -53,22 +58,26 @@ A versatile language with a gentle learning curve.
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ydl4nE10hScfyyqL&amp;list=PLSYhtt87oGAL2mRQpd5ozLsSkMgLxrPtp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+[Python's fundamental playlist](https://www.youtube.com/playlist?list=PLSYhtt87oGAL2mRQpd5ozLsSkMgLxrPtp)
+
 -   **Advanced Python**: Object-oriented programming, list comprehensions, and modules.
 
 -   **Python Ecosystem**: Libraries like `numpy`, `pandas`, and `flask` to supercharge your projects.
 
 ------------------------------------------------------------------------
 
-### **4. Rust**
+### **4. `Rust`**
 
 A language focusing on performance and safety.
 
--   **Rust Fundamentals**: Understand ownership, borrowing, and lifetimes.
+-   **`Rust` Fundamentals**: Understand ownership, borrowing, and lifetimes.
 
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=4N-C1LncJcnWldux&amp;list=PLSYhtt87oGAINah_sq-GIaGxqhHrF4PbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
--   **Concurrency in Rust**: Explore Rust's approach to threads and safe concurrent programming.
+[`Rust` playlist](https://www.youtube.com/watch?v=tPEWEb1LO8s&list=PLSYhtt87oGAINah_sq-GIaGxqhHrF4PbS)
+
+-   **Concurrency in `Rust`**: Explore Rust's approach to threads and safe concurrent programming.
 
 ------------------------------------------------------------------------
 
@@ -82,13 +91,13 @@ Dive into the world of functional programming.
 
 ------------------------------------------------------------------------
 
-### **6. Go (Golang)**
+### **6. `Go` (Golang)**
 
 Simplicity and efficiency in one package.
 
--   **Go Essentials**: Learn the straightforward syntax, Goroutines, and channels.
+-   **`Go` Essentials**: Learn the straightforward syntax, Goroutines, and channels.
 
--   **Web with Go**: Build robust web applications using Go's standard library.
+-   **Web with `Go`**: Build robust web applications using `Go`'s standard library.
 
 ------------------------------------------------------------------------
 
@@ -125,11 +134,14 @@ Beyond coding, there's the art of building software.
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=EHH43RaqnHILfZUI&amp;list=PLSYhtt87oGAI4p4RtRA6RQLFAJTokI3mt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+[Software engineering playlist](https://www.youtube.com/playlist?list=PLSYhtt87oGAI4p4RtRA6RQLFAJTokI3mt)
+
 -   **Testing**: Learn the importance of testing and various methodologies, from unit tests to integration tests.
 
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=kYzczu6RZ9Y3q5oI&amp;list=PLSYhtt87oGALoyPVfAk8m5UmnY_aP87rB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+[Clean code playlist](https://www.youtube.com/playlist?list=PLSYhtt87oGALoyPVfAk8m5UmnY_aP87rB)
 
 ------------------------------------------------------------------------
 
@@ -142,11 +154,13 @@ The quintessential text editor.
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RrHlqmI363tnx17F&amp;list=PLSYhtt87oGALJ4s8MX4z3Tm-XGjSm4cnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+[Vim playlist](https://www.youtube.com/watch?v=X9P4qbFKKyg&list=PLSYhtt87oGALJ4s8MX4z3Tm-XGjSm4cnE)
+
 -   **Advanced Vim**: Buffers, windows, plugins, and custom configurations.
 
 ------------------------------------------------------------------------
 
-### **11. Exploring New Languages**
+### **11. Exploring New Programming Languages**
 
 Never stop learning!
 
@@ -155,11 +169,14 @@ Never stop learning!
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySOWPRdm304?si=iCT-AuxM_480xC41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+[Code news playlist](https://www.youtube.com/playlist?list=PLSYhtt87oGAKVyYDQLfufvApCE_HZ-HrS)
+
 -   **Experiment**: Play with sample projects, build simple applications, and test their potential. It doesn't matter if you're ignorant to begin with - the most important thing is to discover new things.
 
 ```{=html}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=yb1bgpocN7HimJIn&amp;list=PLSYhtt87oGALcvLjSZ4uinTIyXFxGUAgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ```
+[Ignorant videos playlist](https://www.youtube.com/watch?v=kePMqo2N5nA&list=PLSYhtt87oGALcvLjSZ4uinTIyXFxGUAgZ)
 
 ------------------------------------------------------------------------
 

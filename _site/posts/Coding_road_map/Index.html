@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.433">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -62,13 +62,82 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-</head><body class="nav-fixed"><div id="google_translate_element"></div>
 
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages : 'fr,de,it,es,ar,rw,eo', layout: google.translate.TranslateElement.InlineLayout.SIMPLE});
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<!-- =======================  Google Translate 
+======================= -->
+
+</head><body class="nav-fixed"><div style="float: right">
+   <div id="google_translate_element" style="position: absolute; right: 0px; z-index: 1;"></div>
+</div>
+
+
+ <style type="text/css">
+ 
+   .fixed-con {
+    z-index: 9724790009779558!important;
+    background-color: #f7f8fc;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-y: auto;
+  }
+  .VIpgJd-ZVi9od-aZ2wEe-wOHMyf{
+   z-index: 9724790009779!important;
+   top:0;
+   left:unset;
+   right:-5px;
+   display:none!important;
+   border-radius:50%;
+   border:2px solid gold;
+  }
+  .VIpgJd-ZVi9od-aZ2wEe-OiiCO{
+    width:80px;
+    height:80px;
+  }
+  /*hide google translate link | logo | banner-frame */
+  .goog-logo-link,.gskiptranslate,.goog-te-gadget span,.goog-te-banner-frame,#goog-gt-tt, .goog-te-balloon-frame,div#goog-gt-{
+    display: none!important;
+  }
+  .goog-te-gadget {
+    color: transparent!important;
+    font-size:0px;
+  }
+
+  .goog-text-highlight {
+    background: none !important;
+    box-shadow: none !important;
+  }
+   
+ /*google translate Dropdown */
+ 
+ #google_translate_element select{
+ background:#f6edfd;
+ color:#383ffa;
+ border: none;
+ border-radius:3px;
+ padding:6px 8px
+ }
+</style>
+   
+
+
+  <script>
+ function googleTranslateElementInit() {
+ new google.translate.TranslateElement({
+ pageLanguage: 'en',
+ defaultLanguage: 'en',
+ includedLanguages: 'de,en,fr,es,ja,ko,ru,ar',
+ autoDisplay: 'true',
+ layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
+ }, 'google_translate_element');
+ }
+ </script>
+ 
+ <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 
 
 <link rel="stylesheet" href="../../scss/styles.css">
@@ -152,14 +221,14 @@ function googleTranslateElementInit() {
   <li><a href="#theoretical-foundations" id="toc-theoretical-foundations" class="nav-link active" data-scroll-target="#theoretical-foundations"><strong>1. Theoretical Foundations</strong></a></li>
   <li><a href="#introduction-to-shell-programming" id="toc-introduction-to-shell-programming" class="nav-link" data-scroll-target="#introduction-to-shell-programming"><strong>2. Introduction to Shell Programming</strong></a></li>
   <li><a href="#python" id="toc-python" class="nav-link" data-scroll-target="#python"><strong>3. Python</strong></a></li>
-  <li><a href="#rust" id="toc-rust" class="nav-link" data-scroll-target="#rust"><strong>4. Rust</strong></a></li>
+  <li><a href="#rust" id="toc-rust" class="nav-link" data-scroll-target="#rust"><strong>4. <code>Rust</code></strong></a></li>
   <li><a href="#haskell" id="toc-haskell" class="nav-link" data-scroll-target="#haskell"><strong>5. Haskell</strong></a></li>
-  <li><a href="#go-golang" id="toc-go-golang" class="nav-link" data-scroll-target="#go-golang"><strong>6. Go (Golang)</strong></a></li>
+  <li><a href="#go-golang" id="toc-go-golang" class="nav-link" data-scroll-target="#go-golang"><strong>6. <code>Go</code> (Golang)</strong></a></li>
   <li><a href="#c" id="toc-c" class="nav-link" data-scroll-target="#c"><strong>7. C++</strong></a></li>
   <li><a href="#javascript" id="toc-javascript" class="nav-link" data-scroll-target="#javascript"><strong>8. JavaScript</strong></a></li>
   <li><a href="#software-engineering" id="toc-software-engineering" class="nav-link" data-scroll-target="#software-engineering"><strong>9. Software Engineering</strong></a></li>
   <li><a href="#vim" id="toc-vim" class="nav-link" data-scroll-target="#vim"><strong>10. Vim</strong></a></li>
-  <li><a href="#exploring-new-languages" id="toc-exploring-new-languages" class="nav-link" data-scroll-target="#exploring-new-languages"><strong>11. Exploring New Languages</strong></a></li>
+  <li><a href="#exploring-new-programming-languages" id="toc-exploring-new-programming-languages" class="nav-link" data-scroll-target="#exploring-new-programming-languages"><strong>11. Exploring New Programming Languages</strong></a></li>
   <li><a href="#final-words" id="toc-final-words" class="nav-link" data-scroll-target="#final-words"><strong>Final Words</strong></a></li>
   </ul>
 </nav>
@@ -188,14 +257,19 @@ function googleTranslateElementInit() {
 <p>The command-line interface (CLI) is a powerful tool.</p>
 <p><strong>Basic</strong></p>
 <ul>
-<li><p><strong>Basics of CLI</strong>: Navigate directories, manage files, and get comfortable with the terminal.</p></li>
-<li><p><strong>Shell Scripting</strong>: Automate tasks using bash (or your shell of choice) scripting.</p></li>
+<li><strong>Basics of CLI</strong>: Navigate directories, manage files, and get comfortable with the terminal.</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qUzeyDt4PkrRQTnW&amp;list=PLSYhtt87oGAKbXezWPJqy-GVtQH-PaprZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p><a href="https://www.youtube.com/playlist?list=PLSYhtt87oGAKbXezWPJqy-GVtQH-PaprZ">Terminal playlist</a></p>
+<ul>
+<li><strong>Shell Scripting</strong>: Automate tasks using bash (or your shell of choice) scripting.</li>
+</ul>
+<!-- -->
 <ul>
 <li><strong>Modern Shell:</strong> Let’s discover some modern shell and their interesting features. Here we dive into Nushell!</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=1ByO89WL87LDNbfj&amp;list=PLSYhtt87oGAIwKKCyZJSiCTZf0UM8Wl9C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p><a href="https://www.youtube.com/playlist?list=PLSYhtt87oGAIwKKCyZJSiCTZf0UM8Wl9C">Nushell playlist</a></p>
 <hr>
 </section>
 <section id="python" class="level3">
@@ -205,6 +279,7 @@ function googleTranslateElementInit() {
 <li><strong>Python Basics</strong>: Variables, loops, conditions, and functions.</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=ydl4nE10hScfyyqL&amp;list=PLSYhtt87oGAL2mRQpd5ozLsSkMgLxrPtp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p><a href="https://www.youtube.com/playlist?list=PLSYhtt87oGAL2mRQpd5ozLsSkMgLxrPtp">Python’s fundamental playlist</a></p>
 <ul>
 <li><p><strong>Advanced Python</strong>: Object-oriented programming, list comprehensions, and modules.</p></li>
 <li><p><strong>Python Ecosystem</strong>: Libraries like <code>numpy</code>, <code>pandas</code>, and <code>flask</code> to supercharge your projects.</p></li>
@@ -212,14 +287,15 @@ function googleTranslateElementInit() {
 <hr>
 </section>
 <section id="rust" class="level3">
-<h3 class="anchored" data-anchor-id="rust"><strong>4. Rust</strong></h3>
+<h3 class="anchored" data-anchor-id="rust"><strong>4. <code>Rust</code></strong></h3>
 <p>A language focusing on performance and safety.</p>
 <ul>
-<li><strong>Rust Fundamentals</strong>: Understand ownership, borrowing, and lifetimes.</li>
+<li><strong><code>Rust</code> Fundamentals</strong>: Understand ownership, borrowing, and lifetimes.</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=4N-C1LncJcnWldux&amp;list=PLSYhtt87oGAINah_sq-GIaGxqhHrF4PbS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p><a href="https://www.youtube.com/watch?v=tPEWEb1LO8s&amp;list=PLSYhtt87oGAINah_sq-GIaGxqhHrF4PbS"><code>Rust</code> playlist</a></p>
 <ul>
-<li><strong>Concurrency in Rust</strong>: Explore Rust’s approach to threads and safe concurrent programming.</li>
+<li><strong>Concurrency in <code>Rust</code></strong>: Explore Rust’s approach to threads and safe concurrent programming.</li>
 </ul>
 <hr>
 </section>
@@ -233,11 +309,11 @@ function googleTranslateElementInit() {
 <hr>
 </section>
 <section id="go-golang" class="level3">
-<h3 class="anchored" data-anchor-id="go-golang"><strong>6. Go (Golang)</strong></h3>
+<h3 class="anchored" data-anchor-id="go-golang"><strong>6. <code>Go</code> (Golang)</strong></h3>
 <p>Simplicity and efficiency in one package.</p>
 <ul>
-<li><p><strong>Go Essentials</strong>: Learn the straightforward syntax, Goroutines, and channels.</p></li>
-<li><p><strong>Web with Go</strong>: Build robust web applications using Go’s standard library.</p></li>
+<li><p><strong><code>Go</code> Essentials</strong>: Learn the straightforward syntax, Goroutines, and channels.</p></li>
+<li><p><strong>Web with <code>Go</code></strong>: Build robust web applications using <code>Go</code>’s standard library.</p></li>
 </ul>
 <hr>
 </section>
@@ -268,10 +344,12 @@ function googleTranslateElementInit() {
 <li><p><strong>Design Patterns</strong>: Understand common software design patterns and their applications.</p></li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=EHH43RaqnHILfZUI&amp;list=PLSYhtt87oGAI4p4RtRA6RQLFAJTokI3mt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p><a href="https://www.youtube.com/playlist?list=PLSYhtt87oGAI4p4RtRA6RQLFAJTokI3mt">Software engineering playlist</a></p>
 <ul>
 <li><strong>Testing</strong>: Learn the importance of testing and various methodologies, from unit tests to integration tests.</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=kYzczu6RZ9Y3q5oI&amp;list=PLSYhtt87oGALoyPVfAk8m5UmnY_aP87rB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p><a href="https://www.youtube.com/playlist?list=PLSYhtt87oGALoyPVfAk8m5UmnY_aP87rB">Clean code playlist</a></p>
 <hr>
 </section>
 <section id="vim" class="level3">
@@ -281,22 +359,25 @@ function googleTranslateElementInit() {
 <li><strong>Vim Basics</strong>: Understand modes, basic navigation, and editing commands.</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RrHlqmI363tnx17F&amp;list=PLSYhtt87oGALJ4s8MX4z3Tm-XGjSm4cnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p><a href="https://www.youtube.com/watch?v=X9P4qbFKKyg&amp;list=PLSYhtt87oGALJ4s8MX4z3Tm-XGjSm4cnE">Vim playlist</a></p>
 <ul>
 <li><strong>Advanced Vim</strong>: Buffers, windows, plugins, and custom configurations.</li>
 </ul>
 <hr>
 </section>
-<section id="exploring-new-languages" class="level3">
-<h3 class="anchored" data-anchor-id="exploring-new-languages"><strong>11. Exploring New Languages</strong></h3>
+<section id="exploring-new-programming-languages" class="level3">
+<h3 class="anchored" data-anchor-id="exploring-new-programming-languages"><strong>11. Exploring New Programming Languages</strong></h3>
 <p>Never stop learning!</p>
 <ul>
 <li><strong>Research</strong>: Look for emerging languages and their use cases.</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySOWPRdm304?si=iCT-AuxM_480xC41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p><a href="https://www.youtube.com/playlist?list=PLSYhtt87oGAKVyYDQLfufvApCE_HZ-HrS">Code news playlist</a></p>
 <ul>
 <li><strong>Experiment</strong>: Play with sample projects, build simple applications, and test their potential. It doesn’t matter if you’re ignorant to begin with - the most important thing is to discover new things.</li>
 </ul>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=yb1bgpocN7HimJIn&amp;list=PLSYhtt87oGALcvLjSZ4uinTIyXFxGUAgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<p><a href="https://www.youtube.com/watch?v=kePMqo2N5nA&amp;list=PLSYhtt87oGALcvLjSZ4uinTIyXFxGUAgZ">Ignorant videos playlist</a></p>
 <hr>
 </section>
 <section id="final-words" class="level3">
@@ -545,7 +626,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">Published with <a href="https://quarto.org/">Quarto</a> v<!--?quarto.version?--> | Hosted by <a href="https://www.netlify.com"></a></div>   
+    <div class="nav-footer-left">Published with <a href="https://quarto.org/">Quarto</a> | Hosted by <a href="https://www.netlify.com">netlify</a></div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
