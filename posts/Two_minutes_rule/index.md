@@ -24,14 +24,14 @@ image: image.jpg
 Hey, aspiring coders! Let's dive deeper into making coding a seamless part of your busy life. If you're struggling to find time, the **two-minute rule** is your new best friend. It's all about setting yourself up for success with quick, easy-to-start tasks. Let's expand on this and give you some real actionable steps!
 
 ::: callout-note
-As you read this article, please take note so that you do not need to come back too often. And be sure to apply everything right away\!😁
+As you read this article, please take note so that you do not need to come back too often. And be sure to apply everything right away!😁
 :::
 
 ### The two-minute rule explained
 
 The Two-Minute Rule is pretty straightforward: **If a habit is hard to get into because of a lack of time, try to start slowly with short 2-minute sessions**. This principle, a fusion of the [Atomic habits philosophy](https://jamesclear.com/atomic-habits-summary) and the [Kaizen method](https://in.kaizen.com/blog/post/2016/07/19/a-japanese-technique-for-overcoming-laziness), is perfect for building a coding habit. It's about overcoming the inertia of starting by making the first step super easy. It is a practice that emphasizes continuous improvement through small, incremental changes in habits while getting rid of bad habits (which is not the focus today).
 
-In concrete terms, you start by forging a habit by being regular for a small period of time, in our case 2 minutes every week. Then, when the habit is acquired, you can start to increase the duration and frequency according to what suits you best. You can start with 5 or 10 minutes if that's not too much of a challenge.[ ]{style="color: red;"}[**But don't be greedy and hasty at first!**]{style="color: blue;"}
+In concrete terms, you start by forging a habit by being regular for a small period of time, in our case 2 minutes every week. Then, when the habit is acquired, you can start to increase the duration and frequency according to what suits you best. You can start with 5 or 10 minutes if that's not too much of a challenge.[**But don't be greedy and hasty at first!**]{style="color: blue;"}
 
 Indeed we are looking for [**long term results**]{style="color: blue;"}. Of course, nothing restrain you to have non-regular coding period outside of your new habit, but keep the regularity with this specific habit!
 
@@ -53,7 +53,7 @@ Indeed we are looking for [**long term results**]{style="color: blue;"}. Of cour
 
         3.  ...
 
-        4.   "Apply random forest model"
+        4.  "Apply random forest model"
 
         5.  "Compare performance of different models"
 
